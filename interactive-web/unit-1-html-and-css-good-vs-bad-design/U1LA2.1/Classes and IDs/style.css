@@ -1,0 +1,18 @@
+body{
+    background-color: lightblue;
+    color: #0000ff;
+}
+
+h2{
+    color: #ffffff !important;
+    text-align: center;
+}
+
+ #pagetitle{
+    background-color: tomato;
+    text-align: center;
+    padding: 50px;
+    border: 5px solid #0000ff;
+    border-width: 5px;
+    margin: 20px;
+ }
